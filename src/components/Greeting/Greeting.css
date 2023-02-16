@@ -1,0 +1,8 @@
+.greeting{
+    margin: 10px;
+    background-color: black;
+    width: 100%;
+    color: white;
+    padding: 10px;
+    max-width: 1040px;
+}
